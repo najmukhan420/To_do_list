@@ -1,0 +1,6 @@
+Version 2.0, added GUI and Display
+
+- Future add-ons:
+Possibly update file to cloud so you can use it on many devices?
+May be easier to make a website and use the program on that
+Use login to Access to do list? ^ 
